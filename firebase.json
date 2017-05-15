@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "my_django",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
